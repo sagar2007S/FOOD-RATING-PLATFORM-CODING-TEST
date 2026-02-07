@@ -49,7 +49,7 @@ Users can browse stores and rate them, Owners can view ratings on their stores, 
 ---
 ### 1. Clone repo
 ```bash
-git clone https://github.com/sagar2007S/STORE_RATING_APP_CODING_TEST.git
+https://github.com/sagar2007S/FOOD-RATING-PLATFORM-CODING-TEST.git
 
 ```
 ### 2. Install dependencies:
